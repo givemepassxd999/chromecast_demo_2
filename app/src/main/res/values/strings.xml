@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">chromecast_demo</string>
+    <string name="app_id">4F8B3483</string>
+    <string name="introducing_cast">Introducting Cast</string>
+</resources>
